@@ -29,7 +29,7 @@ The "Grocery Store" project is a modern web application designed using Next.js, 
 ### Installation
 
 1. **Clone the Repository**
-   git clone https://github.com/your-username/grocery-store.git
+   git remote add origin https://github.com/OmarRabbi/Grocery-Store.git
    cd grocery-store
 
 2. **Install Dependencies**
