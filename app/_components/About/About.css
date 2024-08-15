@@ -1,0 +1,10 @@
+@media screen and (max-width: 635px) {
+  #about-content{
+      flex-direction: column;
+      gap: 0.6rem;
+      max-width: 100%;
+  }
+  #about-content .why-us{
+    max-width: 100%;
+  }
+}

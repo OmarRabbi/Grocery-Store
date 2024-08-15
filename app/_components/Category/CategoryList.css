@@ -1,0 +1,24 @@
+.category .content .cat-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0fdf4;
+    padding: 0.8rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.category .content .cat-item:hover{
+    background-color: #bbf7d0;
+}
+.category .content .cat-item img{
+    max-width: 50%;
+    padding: 0.5rem;
+}
+.category .content .cat-item img:hover{
+    transform: scale(1.25);
+    transition: all 0.2s ease-in-out;
+}
+.category .content .cat-item h2{
+    text-align: center;
+    color: #065f46;
+}

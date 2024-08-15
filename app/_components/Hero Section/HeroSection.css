@@ -1,0 +1,6 @@
+@media screen and (max-width: 635px) {
+    .hero-section .hero-content h2{
+        font-size: x-large;
+        line-height: normal;
+    }
+}
